@@ -1,0 +1,19 @@
+{
+  "name": "pisk",
+  "description": "Pirate Skills — marketing and growth skills for founders building agentic SaaS. Scaffold the stack, encode business/funnel/content/analytics context into the repo, then run daily content, reconciliation, paid-ads, and A/B-test loops.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Stefan",
+    "url": "https://github.com/shipstefan"
+  },
+  "homepage": "https://github.com/shipstefan/pisk",
+  "keywords": [
+    "marketing",
+    "growth",
+    "saas",
+    "analytics",
+    "ads",
+    "content",
+    "ab-testing"
+  ]
+}
