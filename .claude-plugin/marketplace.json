@@ -1,0 +1,14 @@
+{
+  "name": "pisk",
+  "owner": {
+    "name": "Stefan",
+    "url": "https://github.com/shipstefan"
+  },
+  "plugins": [
+    {
+      "name": "pisk",
+      "source": ".",
+      "description": "Pirate Skills — marketing and growth skills for founders building agentic SaaS."
+    }
+  ]
+}
