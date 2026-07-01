@@ -3,11 +3,13 @@
 ## Install
 
 ```bash
-claude plugin marketplace add github:shipstefan/pisk
+claude plugin marketplace add shipstefan/pisk
 claude plugin install pisk
 ```
 
 Restart Claude Code after install. Skills are available as `/pisk:<name>` in any project.
+
+> Plugin reference: https://code.claude.com/docs/en/plugins-reference.md
 
 Marketing and growth skills for founders building agentic SaaS. Each skill turns a growth playbook into a `/pisk:<name>` slash command.
 
